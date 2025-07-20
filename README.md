@@ -14,6 +14,7 @@ If you are developing a production application, we recommend using TypeScript wi
 ## Features
 
 -Header
+
 -Main movie
 -trailer in bg
 -Title and description
