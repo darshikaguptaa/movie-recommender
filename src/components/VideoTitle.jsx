@@ -7,7 +7,7 @@ const VideoTitle = ({ title, overview }) => {
 			{/* <div className="absolute inset-0 z-20 flex items-center justify-center">
 				<h1 className="text-white text-4xl font-bold">Your Text Here</h1>
 			</div> */}
-			<div className="w-screen aspect-video pt-[20%] px-12 absolute text-white bg-gradient-to-r from-black/55">
+			<div className="w-screen aspect-video pt-[22%] px-12 absolute text-white bg-gradient-to-r from-black/55">
 				<h1 className="text-5xl font-bold"> {title}</h1>
 				<p className="py-6 text-lg md:w-1/3 sm:w-1/4">{overview}</p>
 				<div className="">
